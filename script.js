@@ -2,94 +2,95 @@ const equipment = {
   // "TX-6": ["recording medium", "effect"],
   // Reason: ["recording medium"],
   // "Ableton Live": ["recording medium"],
-  "Jag-Stang": ["pad", "rhythm", "lead"],
-  "Acoustic Guitar": ["rhythm"],
-  "Fender Jazz Bass": ["bass"],
-  Glockenspiel: ["rhythm"],
-  "Arturia Drumbrute": ["drums"],
-  "OP-1": ["lead", "bass", "pad", "rhythm", "drums"],
-  "SE-02": ["bass", "lead", "arp"],
-  "SH-01a": ["pad", "rhythm", "lead", "bass", "arp"],
-  "JU-06": ["pad", "rhythm", "lead", "bass", "arp"],
-  "TR-08": ["drums"],
-  "Yamaha CS": ["lead", "bass", "pad", "rhythm"],
-  "KAOSS PAD": ["lead"],
-  "Echo Boy": ["effect"],
-  Decapitator: ["effect"],
-  Tremolator: ["effect"],
-  Rift: ["effect"],
-  "Spaced Out": ["effect"],
-  Ruina; ["effect"],
-  Crystalizer: ["effect"],
-  'Devil-Loc': ["effect"],
-  Crystaline: ["effect"],
-  Plate: ["effect"],
-  "Comeback Kid": ["effect"],
-  REAMP: ["effect"],
-  "Retro Color": ["effect"],
-  "Coyboys from Sweden Sample": ["sample"],
-  Antoka: ["effect"],
-  Balloon: ["effect"],
-  Bitfight83: ["effect"],
-  Cloudmaster: ["effect"],
-  Clusters: ["effect"],
-  Eidolon: ["effect"],
-  Fathoms: ["effect"],
-  Flare: ["effect"],
-  Fog: ["effect"],
-  Fusia: ["effect"],
-  Lore: ["effect"],
-  MimikOD: ["effect"],
-  Octavlord: ["effect"],
-  Parallax: ["effect"],
-  Parsec: ["effect"],
-  Partikl: ["effect"],
-  Pastfabric: ["effect"],
-  Replicas: ["effect"],
-  Rust: ["effect"],
-  Shadow: ["effect"],
-  Shrike: ["effect"],
-  TheBarber: ["effect"],
-  Timedream: ["effect"],
-  Vanisher: ["effect"],
-  Zerone: ["effect"],
-  "Space Modulator": ["effect"],
-  "UberMod": ["effect"],
-  VintageVerb: ["effect"],
-  Supermassive: ["effect"],
-  "Super VHS": ["effect"],
-  'Alligator Filter': ["effect"],
-  'Audiomatic Tretro Transformer': ["effect"],
-  'Scream 4': ["effect"],
-  "Sinc Vereor": ["bass", "lead", "arp", "rhythm", "pad"],
-  "Virt Vereor": ["bass", "lead", "arp", "rhythm", "pad"],
-  "BA-1": ["bass", "lead", "arp", "rhythm", "pad"],
-  Arkinaut: ["bass", "lead", "arp", "rhythm", "pad"],
-  Darklands: ["bass", "lead", "arp", "rhythm", "pad"],
-  Ember: ["bass", "lead", "arp", "rhythm", "pad"],
-  Klome: ["bass", "lead", "arp", "rhythm", "pad"],
-  Nighthawk: ["bass", "lead", "arp", "rhythm", "pad"],
-  Omniharp: ["arp", "pad"],
-  Paradigm: ["bass", "lead", "arp", "rhythm", "pad"],
-  Strom: ["bass", "lead", "arp", "rhythm", "pad"],
-  Swarm: ["bass", "lead", "arp", "rhythm", "pad"],
-  Verv: ["bass", "lead", "arp", "rhythm", "pad"],
-  Voga: ["bass", "lead", "arp", "rhythm", "pad"],
-  Xodoi: ["bass", "lead", "arp", "rhythm", "pad"],
-  Wade: ["pad", "rhythm", "lead"],
-  Electro: ["drums"],
-  Tympo: ["drums"],
-  Slammer: ["drums"],
-  Vespertone: ["ryhthm"],
-  "Golden Age Grand": ["rhythm"],
-  "Postcard Piano": ["rhythm"],
-  "Le Gibet": ["rhythm", "pad", "lead", "bass", "arp"],
-  Scarbo: ["rhythm", "pad", "lead", "bass", "arp"],
-  "Mod XP": ["effect"],
-  Shigeharu: ["effect"],
-  "Fender Blues Junior": ["effect"],
-  "Strymon Amp": ["effect"],
-  "Strymon Tape": ["effect"],
+  'Jag-Stang': ['pad', 'rhythm', 'lead'],
+  'Acoustic Guitar': ['rhythm'],
+  'Fender Jazz Bass': ['bass'],
+  Glockenspiel: ['rhythm'],
+  'Arturia Drumbrute': ['drums'],
+  'OP-1': ['lead', 'bass', 'pad', 'rhythm', 'drums'],
+  'KO II': ['drums', 'ryhthm'],
+  'SE-02': ['bass', 'lead', 'arp'],
+  'SH-01a': ['pad', 'rhythm', 'lead', 'bass', 'arp'],
+  'JU-06': ['pad', 'rhythm', 'lead', 'bass', 'arp'],
+  'TR-08': ['drums'],
+  'Yamaha CS': ['lead', 'bass', 'pad', 'rhythm'],
+  'KAOSS PAD': ['lead'],
+  'Echo Boy': ['effect'],
+  Decapitator: ['effect'],
+  Tremolator: ['effect'],
+  Rift: ['effect'],
+  'Spaced Out': ['effect'],
+  Ruina: ['effect'],
+  Crystalizer: ['effect'],
+  'Devil-Loc': ['effect'],
+  Crystaline: ['effect'],
+  Plate: ['effect'],
+  'Comeback Kid': ['effect'],
+  REAMP: ['effect'],
+  'Retro Color': ['effect'],
+  'Coyboys from Sweden Sample': ['sample'],
+  Antoka: ['effect'],
+  Balloon: ['effect'],
+  Bitfight83: ['effect'],
+  Cloudmaster: ['effect'],
+  Clusters: ['effect'],
+  Eidolon: ['effect'],
+  Fathoms: ['effect'],
+  Flare: ['effect'],
+  Fog: ['effect'],
+  Fusia: ['effect'],
+  Lore: ['effect'],
+  MimikOD: ['effect'],
+  Octavlord: ['effect'],
+  Parallax: ['effect'],
+  Parsec: ['effect'],
+  Partikl: ['effect'],
+  Pastfabric: ['effect'],
+  Replicas: ['effect'],
+  Rust: ['effect'],
+  Shadow: ['effect'],
+  Shrike: ['effect'],
+  TheBarber: ['effect'],
+  Timedream: ['effect'],
+  Vanisher: ['effect'],
+  Zerone: ['effect'],
+  'Space Modulator': ['effect'],
+  UberMod: ['effect'],
+  VintageVerb: ['effect'],
+  Supermassive: ['effect'],
+  'Super VHS': ['effect'],
+  'Alligator Filter': ['effect'],
+  'Audiomatic Tretro Transformer': ['effect'],
+  'Scream 4': ['effect'],
+  'Sinc Vereor': ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  'Virt Vereor': ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  'BA-1': ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Arkinaut: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Darklands: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Ember: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Klome: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Nighthawk: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Omniharp: ['arp', 'pad'],
+  Paradigm: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Strom: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Swarm: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Verv: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Voga: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Xodoi: ['bass', 'lead', 'arp', 'rhythm', 'pad'],
+  Wade: ['pad', 'rhythm', 'lead'],
+  Electro: ['drums'],
+  Tympo: ['drums'],
+  Slammer: ['drums'],
+  Vespertone: ['ryhthm'],
+  'Golden Age Grand': ['rhythm'],
+  'Postcard Piano': ['rhythm'],
+  'Le Gibet': ['rhythm', 'pad', 'lead', 'bass', 'arp'],
+  Scarbo: ['rhythm', 'pad', 'lead', 'bass', 'arp'],
+  'Mod XP': ['effect'],
+  Shigeharu: ['effect'],
+  'Fender Blues Junior': ['effect'],
+  'Strymon Amp': ['effect'],
+  'Strymon El Capitan': ['effect'],
 };
 
 const probabilities = {
@@ -121,7 +122,7 @@ function determineNumTracks(numTracksProbabilities) {
 
 function selectRecordingMedium(equipment) {
   const recordingMediums = Object.keys(equipment).filter((key) =>
-    equipment[key].includes("recording medium")
+    equipment[key].includes('recording medium')
   );
   if (recordingMediums.length === 0) {
     return null;
@@ -136,14 +137,14 @@ function generateTracks(equipment, probabilities) {
   const selectedTracks = [];
   const tagsUsed = {
     bass: false,
-    "recording medium": false,
+    'recording medium': false,
   };
 
   // Ensure the first track is a recording medium
   const recordingMedium = selectRecordingMedium(equipment);
   if (recordingMedium) {
     selectedTracks.push(recordingMedium);
-    tagsUsed["recording medium"] = true;
+    tagsUsed['recording medium'] = true;
   }
 
   while (selectedTracks.length < numTracks) {
@@ -151,15 +152,15 @@ function generateTracks(equipment, probabilities) {
     const track = equipmentKeys[randomIndex];
     if (
       !selectedTracks.includes(track) &&
-      (!tagsUsed["recording medium"] ||
-        !equipment[track].includes("recording medium")) &&
-      !equipment[track].includes("effect")
+      (!tagsUsed['recording medium'] ||
+        !equipment[track].includes('recording medium')) &&
+      !equipment[track].includes('effect')
     ) {
       selectedTracks.push(track);
     }
   }
 
-  console.log("Selected tracks:", selectedTracks); // Debugging line
+  console.log('Selected tracks:', selectedTracks); // Debugging line
 
   const trackList = selectedTracks.map((track, index) => {
     const trackDetails = {
@@ -173,7 +174,7 @@ function generateTracks(equipment, probabilities) {
     if (
       !tagsUsed.bass &&
       Math.random() <= probabilities.bass &&
-      equipment[track].includes("bass")
+      equipment[track].includes('bass')
     ) {
       trackDetails.bass = true;
       tagsUsed.bass = true;
@@ -188,7 +189,7 @@ function generateTracks(equipment, probabilities) {
   trackList.forEach((track) => {
     if (Math.random() <= probabilities.effect) {
       const effects = Object.keys(equipment).filter((key) =>
-        equipment[key].includes("effect")
+        equipment[key].includes('effect')
       );
       if (effects.length > 0) {
         const randomEffect = effects[getRandomInt(effects.length)];
@@ -197,7 +198,7 @@ function generateTracks(equipment, probabilities) {
     }
   });
 
-  console.log("Generated track details:", trackList); // Debugging line
+  console.log('Generated track details:', trackList); // Debugging line
 
   return trackList;
 }
@@ -208,29 +209,29 @@ function getRandomTag(tags) {
 }
 
 function displayTracks(trackList) {
-  const trackListDiv = document.getElementById("trackList");
-  trackListDiv.innerHTML = ""; // Clear previous results
+  const trackListDiv = document.getElementById('trackList');
+  trackListDiv.innerHTML = ''; // Clear previous results
 
   trackList.forEach((track) => {
-    const trackDiv = document.createElement("div");
-    trackDiv.classList.add("track");
+    const trackDiv = document.createElement('div');
+    trackDiv.classList.add('track');
 
-    const instrument = document.createElement("p");
+    const instrument = document.createElement('p');
     instrument.innerText = `Instrument: ${track.instrument}`;
     trackDiv.appendChild(instrument);
 
-    const selectedTag = document.createElement("p");
+    const selectedTag = document.createElement('p');
     selectedTag.innerText = `Selected Tag: ${track.selectedTag}`;
     trackDiv.appendChild(selectedTag);
 
     if (track.effect) {
-      const effect = document.createElement("p");
+      const effect = document.createElement('p');
       effect.innerText = `Effect: ${track.effect}`;
       trackDiv.appendChild(effect);
     }
 
     if (track.bass) {
-      const bass = document.createElement("p");
+      const bass = document.createElement('p');
       trackDiv.appendChild(bass);
     }
 
@@ -238,7 +239,9 @@ function displayTracks(trackList) {
   });
 }
 
-document.getElementById("generateBtn").addEventListener("click", () => {
-  const randomTracks = generateTracks(equipment, probabilities);
-  displayTracks(randomTracks);
-});
+document
+  .getElementById('generateBtn')
+  .addEventListener('click', () => {
+    const randomTracks = generateTracks(equipment, probabilities);
+    displayTracks(randomTracks);
+  });
